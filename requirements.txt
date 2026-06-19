@@ -1,0 +1,5 @@
+
+wmi
+reportlab
+pywin32
+pypiwin32
